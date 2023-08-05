@@ -206,7 +206,7 @@ img {
 }
 
 .container {
-    width: 1440px;
+    width: 1158px;
     margin: 0 auto;
 }
 
@@ -217,8 +217,6 @@ img {
     align-items: center;
     max-width: 1440px;
     min-height: 72px;
-    padding: 0 156px;
-    margin: 0 auto;
 }
 
 .team-section {
