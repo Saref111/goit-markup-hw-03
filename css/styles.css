@@ -199,7 +199,7 @@ img {
 }
 
 .container {
-    max-width: 1158px;
+    width: 1158px;
     margin: 0 auto;
 }
 
@@ -337,7 +337,7 @@ img {
     background-color: var(--secondary-brand-color);
 }
 
-.content-list {
+.goods-list {
     row-gap: 48px;
 }
 
